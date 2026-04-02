@@ -6,7 +6,7 @@ Customer support teams are receiving a high volume of repeat calls, indicating t
 **Goal:**  
 Identify patterns in repeat calls and provide insights to help reduce customer recall volumes and improve service efficiency.
 
-Dashboard Link: Dashboard Link: [View Interactive Tableau Dashboard](https://public.tableau.com/views/GoogleBISpecializationFinalCertificate/GoogleFibreCustomerCallDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Dashboard Link: [View Interactive Tableau Dashboard](https://public.tableau.com/views/GoogleBISpecializationFinalCertificate/GoogleFibreCustomerCallDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -24,7 +24,7 @@ The analysis was performed using **Tableau** by combining 3 datasets (market lev
 
 ## Key KPIs
 
-![KPI Summary](images/KPI Summary.png)
+![KPI Summary](images/kpi_summary.png)
 
 - **Total Calls:** 64,939  
 - **Total Repeat Calls:** 20,240  
@@ -53,7 +53,7 @@ Including time scale comparisons:
 
 ## Dashboard Overview
 
-![Dashboard Overview](images/Google Fibre Customer Call Dashboard.png)
+![Dashboard](images/dashboard.png)
 
 The dashboard provides a centralized view of repeat call behaviour across time, market segments, and problem categories.
 
@@ -63,7 +63,7 @@ The dashboard provides a centralized view of repeat call behaviour across time, 
 
 ### 1. Repeat Calls Increase Over Time
 
-![Calls by quarter](images/Calls by quarter.png)
+![Calls by quarter](images/calls_by_quarter.png)
 
 - Repeat call volumes increase as months progress
 - Indicates persistent service issues requiring follow-up support
@@ -72,7 +72,7 @@ The dashboard provides a centralized view of repeat call behaviour across time, 
 
 ### 2. Weekdays Have Higher Repeat Call Volumes
 
-![Repeat calls by weekday](images/Total repeat calls by weekday per month.png)
+![Repeat calls weekday](images/repeat_calls_weekday.png)
 
 - Majority of repeat calls occur between **Monday and Friday**
 - Suggests peak operational workload during business days
@@ -81,7 +81,7 @@ The dashboard provides a centralized view of repeat call behaviour across time, 
 
 ### 3. Market 1 Has Highest Repeat Calls
 
-![Repeat calls by market](images/First repeat call by market and problem type.png)
+![Repeat calls market problem](images/repeat_calls_market_problem.png)
 
 - **Market 1** support team experiences the highest repeat call volume
 - Followed by **Market 3**
@@ -91,7 +91,7 @@ The dashboard provides a centralized view of repeat call behaviour across time, 
 
 ### 4. Problem Type 5 Drives Most Repeat Calls
 
-![Repeat calls by market](images/First repeat call by market and problem type.png)
+![Repeat calls market problem](images/repeat_calls_market_problem.png)
 
 - **Problem Type 5 (Internet/WiFi issues)** generates the highest repeat calls across all markets
 - Followed by:
@@ -104,7 +104,7 @@ Problem category strongly impacts repeat call behaviour.
 
 ### 5. Peak Repeat Call Days Identified
 
-![Repeat calls by date](images/Total repeat calls by first date.png)
+![Repeat calls first date](images/repeat_calls_first_date.png)
 
 - Certain dates show significantly higher repeat call volumes
 - Useful for workforce planning and support optimization
@@ -113,8 +113,7 @@ Problem category strongly impacts repeat call behaviour.
 
 ## Data Accessibility for Stakeholders
 
-![Tables](images/Tables.png)
-
+![Tables](images/tables.png)
 Structured tables were included in the dashboard to allow stakeholders direct access to the underlying data along with visual insights.
 
 ---
