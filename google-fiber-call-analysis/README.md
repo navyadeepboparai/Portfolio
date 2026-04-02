@@ -91,7 +91,7 @@ The dashboard provides a centralized view of repeat call behaviour across time, 
 
 ### 4. Problem Type 5 Drives Most Repeat Calls
 
-![Repeat calls by problem type](images/First repeat call by market and problem type.png)
+![Repeat calls by market](images/First repeat call by market and problem type.png)
 
 - **Problem Type 5 (Internet/WiFi issues)** generates the highest repeat calls across all markets
 - Followed by:
